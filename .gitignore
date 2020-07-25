@@ -1,0 +1,9 @@
+libraries/
+static/imagens/favicon/
+Pipfile
+Pipfile.lock
+.env
+favicon.ico
+robot-favicon.png
+robot-fav.png
+favicon-16x16.png
